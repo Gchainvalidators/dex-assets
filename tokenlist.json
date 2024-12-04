@@ -18,8 +18,7 @@
       "address": "0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba",
       "chainId": 16507,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba.png",
-      "isNative": true
+      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xAa7aE83eb30DDdd14A017D4222121776317EA8Ba.png"
     },
     {
       "name": "Tether USD from Blue20",
