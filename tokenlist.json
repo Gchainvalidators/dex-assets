@@ -75,6 +75,14 @@
       "chainId": 16507,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xF8213760f3A91C8092bc9D6c877b5623610f2913.png"
+    },
+    {
+      "name": "FAKE FUNNY",
+      "symbol": "FAKE",
+      "address": "0xCA7670e798f355a36E1F8D2aE94Dd2797eeaC7e8",
+      "chainId": 16507,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xCA7670e798f355a36E1F8D2aE94Dd2797eeaC7e8.png"
     }
   ]
 }
