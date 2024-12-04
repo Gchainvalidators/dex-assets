@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/16507.png",
-  "keywords": ["bluelotusdao", "default"],
+  "keywords": [
+    "bluelotusdao",
+    "default"
+  ],
   "tokens": [
     {
       "name": "Wrapped GSYS",
