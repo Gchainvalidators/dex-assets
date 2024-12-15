@@ -53,14 +53,6 @@
       "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xC91b5288E0d4bf1e9ecB59a7a1ffD015b66A8Dc6.png"
     },
     {
-      "name": "Blue Pepe",
-      "symbol": "BPEPE",
-      "address": "0x3D712c2aF5288c825ffFBDDC2c2eeD0c58339A50",
-      "chainId": 16507,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0x3D712c2aF5288c825ffFBDDC2c2eeD0c58339A50.png"
-    },
-    {
       "name": "Dead RALPH",
       "symbol": "DRALPH",
       "address": "0x396A955563f77Eb4AA2c62762ED7f24c999c4742",
