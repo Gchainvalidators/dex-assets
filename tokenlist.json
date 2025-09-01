@@ -75,6 +75,15 @@
       "chainId": 16507,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/main/logo/gsys/0xCA7670e798f355a36E1F8D2aE94Dd2797eeaC7e8.png"
+    },
+    {
+      "name": "MUM COIN",
+      "symbol": "MUM",
+      "address": "0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5",
+      "chainId": 16507,
+      "decimals": 18,
+      "logoURI": "https://github.com/Gchainvalidators/dex-assets/commit/dcd8362a267e21dd6d3a5be87c571387f5fa2bc8"
+      
     }
   ]
 }
