@@ -82,8 +82,7 @@
       "address": "0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5",
       "chainId": 16507,
       "decimals": 18,
-      "logoURI": "logo/gsys/mum logo.jpeg"
-      
+      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/dex-assets/dcd8362a267e21dd6d3a5be87c571387f5fa2bc8/logo/gsys/mum%20logo.jpeg"
     }
   ]
 }
